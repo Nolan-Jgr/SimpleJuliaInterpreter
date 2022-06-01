@@ -1,0 +1,16 @@
+//  This is a test file
+function testCase()
+10
+10.0
+10.001
+=
+<=
+<
+>=
+>
+==
+~=
++
+-
+*
+/
